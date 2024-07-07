@@ -2,7 +2,7 @@
 
 turkish_words = [
 "oniki",
- "yirmi"
+ "yirmi",
   "ince",
    "zayıf",
     "yakışıklı",
